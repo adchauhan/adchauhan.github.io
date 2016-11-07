@@ -1,1 +1,15 @@
-Hello Geek Gamers
+---
+layout: default
+description: Welcome to My Geek Games Website, here you can read latest game review for PC and Mobile Games.
+sitemap: false
+---
+
+<h1 class="page-heading">Recent Game Posts</h1>
+    {% for post in site.posts limit:10 %}
+		  <div class=panel>
+		  <h2 class="panel-heading">
+          <a class="panel-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		  </h2><a href="{{ post.url | prepend: site.baseurl }}"><img class="img-responsive" src="{{post.img}}"/></a>
+		<p class=panel-description>{{ post.description}}</p>
+		</div>
+    {% endfor %}

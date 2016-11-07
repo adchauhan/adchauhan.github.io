@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: My Geek Games
+description: > # this means to ignore newlines until "baseurl:"
+  Goyllo is tech website, where you can find many tutorials, tips and guidelines on Internet and software.
+baseurl: "" # the subpath of your site, e.g. /blog
+imgurl: /images
+url: "https://www.mygeekgames.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+include: ['_pages']
