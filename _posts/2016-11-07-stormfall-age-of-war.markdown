@@ -17,8 +17,6 @@ tags:
 <span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/pc/strategy/" itemprop="url"><span title="Strategy Games" itemprop='title'>Strategy Games</span></a></span>
 </div>
 
-## Introduction: Stormfall Age of War  ##
-
 Stormfall is MMORTSs (massively multiplayer online real-time strategy) game. You can play this game directly from your computer browser. No need to install any setup file.  **Just <a href="http://hyperurl.co/stormfall-age-of-war" rel="nofollow" target="_blank">create a free account on their website</a>, and you're ready to play online.** Just like most of strategy game, you need to build your colony first, whenever you build something in this game like castle and town center, you will get rewards points. You can use that resource to build your army. There are lots of options to get reward for free, you can also buy rewards if you want.
 
 ## Screenshot ##
