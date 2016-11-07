@@ -41,7 +41,7 @@ Stormfall is MMORTSs (massively multiplayer online real-time strategy) game. You
 
 <div id="mybutton"><a style="color: #fff;background-color:#498AF4;padding: 10px 10px 10px 10px;" href="http://hyperurl.co/stormfall-age-of-war" role="button" rel="nofollow" target="_blank">Click Here to Play Stormfall</a></div>
 
-## My Rating on this game ##
+## My Rating for this Game ##
 **Graphics Rating:** 5/5
 
 **Strategy Rating :** 5/4
