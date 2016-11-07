@@ -12,7 +12,7 @@ tags:
 ---
 
 <div class="breadcrumb">
-<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="My Geek Games" itemprop='title'>My Geek Games</span></a></span>
 <span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/pc/" itemprop="url"><span title="PC Games" itemprop='title'>PC Games</span></a></span>
 <span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/pc/strategy/" itemprop="url"><span title="Strategy Games" itemprop='title'>Strategy Games</span></a></span>
 </div>
@@ -41,7 +41,7 @@ Stormfall is MMORTSs (massively multiplayer online real-time strategy) game. You
 
 **Internet Connection:** Required.
 
-<div id="mybutton"><a style="color: #fff;background-color:#498AF4;padding: 10px 10px 10px 10px;" href="http://hyperurl.co/stormfall-age-of-war" role="button" rel="nofollow" target="_blank">Click Here to Play Stormfall:Age of War</a></div>
+<div id="mybutton"><a style="color: #fff;background-color:#498AF4;padding: 10px 10px 10px 10px;" href="http://hyperurl.co/stormfall-age-of-war" role="button" rel="nofollow" target="_blank">Click Here to Play Stormfall</a></div>
 
 ## My Rating on this game ##
 **Graphics Rating:** 5/5
