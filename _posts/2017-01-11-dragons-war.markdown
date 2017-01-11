@@ -34,7 +34,7 @@ Dragons war is real time strategy game that build for android game lover, It com
 
 **Internet Connection:** Yes, Required.
 
-<div id="mybutton"><a style="color: #fff;background-color:#498AF4;padding: 10px 10px 10px 10px;" href="http://kuaptrk.com/mt/0384x264d4u233t224q2u234/" role="button" rel="nofollow" target="_blank">Click Here to Install Dragons War</a></div>
+<div id="mybutton"><a style="color: #fff;background-color:#498AF4;padding: 10px 10px 10px 10px;" href="http://kuaptrk.com/mt/0384x264d4u233t224q2u234/" role="button" onclick="ButtonClickEvent(); rel="nofollow" target="_blank">Click Here to Install Dragons War</a></div>
 
 ## My Rating on this game ##
 
